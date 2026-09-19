@@ -4,6 +4,8 @@
 
 本書の第11章で完成させる Neovim 設定一式（init.lua + 6 分割ファイル、計 180 行）を、本文のリストと 1 対 1 で対応する形で収録しています。すべて Neovim 0.12.3 で実機検証済みです。リポジトリ直下がそのまま設定ディレクトリの形になっているため、clone してそのまま `~/.config/nvim` として使えます。
 
+Kindle 版: [Vim/Neovim の教科書](https://www.amazon.co.jp/dp/B0H7T7FC8D)
+
 ## 動作前提
 
 - Neovim 0.12 以降（`vim.pack` がコア標準になったバージョン）
